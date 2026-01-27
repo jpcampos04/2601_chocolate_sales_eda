@@ -6,3 +6,16 @@ This project analyzes a commercial dataset provided by an international company 
 
 
 The analysis covers the period **2022–2024** and focuses on identifying patterns in revenue generation, operational balance, and growth behavior across different dimensions of the business.
+
+## ⚙️ Technologies Used
+- **Python**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook  
+
+## 🚀 How to Run
+```bash
+git clone https://github.com/jpcampos04/2601_chocolate_sales_eda.git
+jupyter 2601_chocolate_sales.ipynb
